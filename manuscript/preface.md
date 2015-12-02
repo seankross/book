@@ -3,7 +3,7 @@
 It must have been an intellectually exhilarating moment in history when 
 electrical engineers, physicists, mathematicians, and others were uncovering the
 set of interrelated concepts that would eventually coalesce into what we think 
-of today as computer science. If you look right now at the people in the 
+of today as computer science. If you listen to the people in the 
 communities of statistics, machine learning, data visualization, and computer 
 science it's apparent that another exciting moment is taking place around the
 new discipline of data science. The necessity that brought about the birth of 
