@@ -1,4 +1,4 @@
-## Preface
+# Preface
 
 It must have been an intellectually exhilarating moment in history when 
 electrical engineers, physicists, mathematicians, and others were uncovering the
@@ -30,4 +30,6 @@ sean@seankross.com and I will likely allow it without any hassle. This book is
 being written on [GitHub](https://github.com/seankross/book) and I would
 appreciate if readers pointed out any errata by
 [pull request](https://github.com/seankross/book/compare) or by 
-[submitting an issue](https://github.com/seankross/book/issues/new).
+[submitting an issue](https://github.com/seankross/book/issues/new). This book
+has a [community wiki](https://github.com/seankross/book/wiki) where readers
+are welcome to make edits and submit contributions.
