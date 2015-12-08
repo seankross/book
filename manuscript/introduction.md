@@ -57,5 +57,5 @@ interface for manipulating computers and interacting with data.
 This book is meant to be used with a computer where you have full administrative
 privileges. If you're using this book with a computer that you own this 
 shouldn't be a problem, however if you are using a computer at work or school 
-you may need to contact a systems administrator. In order to install and use
+you may need to contact a systems administrator in order to install and use
 the tools discussed in the following chapters.

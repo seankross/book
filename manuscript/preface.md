@@ -31,5 +31,5 @@ being written on [GitHub](https://github.com/seankross/book) and I would
 appreciate if readers pointed out any errata by
 [pull request](https://github.com/seankross/book/compare) or by 
 [submitting an issue](https://github.com/seankross/book/issues/new). This book
-has a [community wiki](https://github.com/seankross/book/wiki) where readers
-are welcome to make edits and submit contributions.
+has a [community wiki](https://github.com/seankross/book/wiki) that readers
+are welcome to edit and contribute to.
